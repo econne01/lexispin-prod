@@ -1,4 +1,7 @@
 # lexispin-prod
+Play the game at http://econne01.github.io/lexispin-prod
+
+## About
 Production build repo for the closed-source word game, [Lexispin](https://github.com/bintancoulibaly/GamesGamesGames)
 
 ## Licensing
